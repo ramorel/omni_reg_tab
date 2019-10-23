@@ -70,6 +70,7 @@ ui <- fluidPage(
                 uiOutput("time_effects"))
         ),
         
+        
         # Main panel for displaying outputs ----
         mainPanel(
             
